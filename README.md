@@ -1,16 +1,23 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Yejining's%20Github&fontSize=40)
 
-<!--
-**Yejining/Yejining** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <em>
+    Hi there 👋
+  </em>  
+</p>
 
-Here are some ideas to get you started:
+![Yejining's github stats](https://github-readme-stats.vercel.app/api?username=Yejining&show_icons=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Project ⚡
+
+* to be uploaded
+
+### Contacts 📫
+
+* Github Repo Issue
+* Email: kimyejin.kr@gmail.com
+
+  
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
