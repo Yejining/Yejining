@@ -12,8 +12,9 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=round-square&logo=Linux&logoColor=white"/><img src="https://img.shields.io/badge/MySQL-4479A1?style=round-square&logo=MySQL&logoColor=white"/>
 
 ### Project ⚡
-* to be uploaded
+to be uploaded
 
 ![Yejining's github stats](https://github-readme-stats.vercel.app/api?username=Yejining&show_icons=true)
 </div>
+
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
