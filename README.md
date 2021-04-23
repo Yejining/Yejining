@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=round-square&logo=Android&logoColor=white"/> <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?&style=round-square&logo=flask&logoColor=white"/> </br>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=round-square&logo=Linux&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=round-square&logo=MySQL&logoColor=white"/>
 
-### Project ⚡
+### ⚡ Project
 to be uploaded
 
 ![Yejining's github stats](https://github-readme-stats.vercel.app/api?username=Yejining&show_icons=true)
