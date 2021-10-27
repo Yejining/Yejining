@@ -31,8 +31,8 @@
 - [DeepNIPA(private)](https://github.com/Yejining/DeepNIPA) for solving SIRD model using NeuralODE and LSTM
 - [NIPA](https://github.com/Yejining/NIPA) for emplementing [NIPA model](https://appliednetsci.springeropen.com/articles/10.1007/s41109-020-00274-2)
 - [SIRD](https://github.com/Yejining/SIRD) epidemic model
-- [R0_Estimation(private)](https://github.com/Yejining/R0_Estimation) for estimating r0, rt values
-- [COVID_DataProcessor](https://github.com/Yejining/COVID_DataProcessor) for preprocessing dataset for [DeepNIPA(private)](https://github.com/Yejining/DeepNIPA), [NIPA](https://github.com/Yejining/NIPA), [SIRD](https://github.com/Yejining/SIRD), and [R0_Estimation(private)](https://github.com/Yejining/R0_Estimation)
+- [R0_Estimation](https://github.com/Yejining/R0_Estimation) for estimating r0, rt values
+- [COVID_DataProcessor](https://github.com/Yejining/COVID_DataProcessor) for preprocessing dataset for [DeepNIPA(private)](https://github.com/Yejining/DeepNIPA), [NIPA](https://github.com/Yejining/NIPA), [SIRD](https://github.com/Yejining/SIRD), and [R0_Estimation](https://github.com/Yejining/R0_Estimation)
 - [COVID_Evaluation(private)](https://github.com/Yejining/COVID_Evaluation) for visualizing and evaluating model performances of [DeepNIPA(private)](https://github.com/Yejining/DeepNIPA), [NIPA](https://github.com/Yejining/NIPA), and [SIRD](https://github.com/Yejining/SIRD)
 ### DVL-Sejong, others (2020 ~ )
 - [Survey](https://github.com/Yejining/Survey), survey on AutoML. We don't update anymore.
