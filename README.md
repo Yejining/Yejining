@@ -38,15 +38,15 @@
 - [Fishing_Phishing_Android](https://github.com/Yejining/Fishing_Phishing_Android), android app for catching scam phone calls
 
 ### C# study projects (2018)
-- [TicTacToe(private)](https://github.com/Yejining/TicTacToe), console program
-- [Command(private)](https://github.com/Yejining/Command), windows command program (console)
-- [EnSharpLibrary(private)](https://github.com/Yejining/EnSharpLibrary), library management program (console)
-- [EnsharpPortal(private)](https://github.com/Yejining/EnSharpPortal), management program for signing up for classes (console)
-- [ImageSearch(private)](https://github.com/Yejining/ImageSearch), image searching program (gui)
-- [Calculator(private)](https://github.com/Yejining/Calculator), gui program
-- [EnsharpSignUpProgram(private)](https://github.com/Yejining/EnsharpSignUpProgram), sign up program (gui)
-- [WindowsExplorer(private)](https://github.com/Yejining/WindowsExplorer), gui program
-- [DrawingBoard(private)](https://github.com/Yejining/DrawingBoard), gui program
+- [TicTacToe](https://github.com/Yejining/TicTacToe), console program
+- [Command](https://github.com/Yejining/Command), windows command program (console)
+- [EnSharpLibrary](https://github.com/Yejining/EnSharpLibrary), library management program (console)
+- [EnsharpPortal](https://github.com/Yejining/EnSharpPortal), management program for signing up for classes (console)
+- [ImageSearch](https://github.com/Yejining/ImageSearch), image searching program (gui)
+- [Calculator](https://github.com/Yejining/Calculator), gui program
+- [EnsharpSignUpProgram](https://github.com/Yejining/EnsharpSignUpProgram), sign up program (gui)
+- [WindowsExplorer](https://github.com/Yejining/WindowsExplorer), gui program
+- [DrawingBoard](https://github.com/Yejining/DrawingBoard), gui program
 
 ## Reach me around the web 🌎: 
 - Sharing updates on <a href="https://www.linkedin.com/in/yejin-kim-684835160/">LinkedIn</a> 💼
